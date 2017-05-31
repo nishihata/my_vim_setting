@@ -1,3 +1,4 @@
+colorscheme one
 :syntax on
 :set hlsearch
 :set tabstop=4
